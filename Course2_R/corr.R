@@ -1,3 +1,4 @@
+# computing correlation 
 corr <- function(directory, threshold = 0) {
   corrs <- c()
   id = 1:332
